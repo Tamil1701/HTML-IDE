@@ -7,6 +7,8 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+![alt text](http://url/to/img.png)
+
 == Description ==
 
 HTML File Executor is a simple WordPress plugin that allows users to execute HTML code directly on their WordPress site. With HTML File Executor, you can input HTML code into a code editor, and the plugin will display the output in real-time using an embedded iframe. This plugin is ideal for developers, designers, and anyone who wants to quickly test HTML code without leaving their WordPress dashboard.

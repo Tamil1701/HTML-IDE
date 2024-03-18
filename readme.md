@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-![alt text](http://url/to/img.png)
+![Sample image](https://github.com/Tamil1701/HTML-IDE/blob/main/Assets/html-exec-5.png)
 
 == Description ==
 
